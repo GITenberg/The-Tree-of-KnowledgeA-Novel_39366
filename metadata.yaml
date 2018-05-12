@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '37776'
     url: http://www.gutenberg.org/2009/agents/37776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39366#The-Tree-of-KnowledgeA-Novel
 gutenberg_issued: '2012-04-04'
 gutenberg_type: Text
 identifiers:
